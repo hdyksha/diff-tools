@@ -1,0 +1,15 @@
+{
+  "key1": "val1",
+  "key2": 2,
+  "key3": [
+    "elem1",
+    "elem2",
+    "elem3"
+  ],
+  "key4": {
+    "nested_key1": "nested_val1",
+    "nested_key2": {
+      "double_nested_key": 11
+    }
+  }
+}

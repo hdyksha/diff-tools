@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+  <!-- Logger settings -->
+  <logger name="logger1" class="SimpleLogger"></logger>
+  <logger name="logger2" class="SimpleLogger"></logger>
+  <logger name="logger3" class="SimpleLogger" path="PATH_TO_THE_DIR"></logger>
+  <logger name="logger4" class="SimpleLogger">
+    <enableLogRotate>false</enableLogRotate>
+  </logger>
+</config>
